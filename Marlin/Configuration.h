@@ -263,9 +263,9 @@ Here are some standard links for getting your machine calibrated:
 
 // Fiberglass calbrated 2015-05-10
 
-#define  DEFAULT_Kp 204.00
-#define  DEFAULT_Ki 15.72
-#define  DEFAULT_Kd 661.77
+#define  DEFAULT_bedKp 204.00
+#define  DEFAULT_bedKi 15.72
+#define  DEFAULT_bedKd 661.77
 
 // FIND YOUR OWN: "M303 E-1 C8 S90" to run autotune on the bed at 90 degreesC for 8 cycles.
 #endif // PIDTEMPBED
