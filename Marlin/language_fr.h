@@ -125,6 +125,12 @@
 #define MSG_BABYSTEP_Y                      "Babystep Y"
 #define MSG_BABYSTEP_Z                      "Babystep Z"
 #define MSG_ENDSTOP_ABORT                   "Butee abandon"
+#define MSG_HEATING_FAILED_LCD              "Chauffe echouee"
+#define MSG_ERR_REDUNDANT_TEMP              "Err: diff. capteurs temp."
+#define MSG_THERMAL_RUNAWAY                 "Emballement thermique"
+#define MSG_ERR_MAXTEMP                     "Err: Temp. Maximum"
+#define MSG_ERR_MINTEMP                     "Err: Temp. Minimum"
+#define MSG_ERR_MAXTEMP_BED                 "Err: Temp. Max. Plateau"
 #define MSG_END_HOUR                        "heures"
 #define MSG_END_MINUTE                      "minutes"
 
