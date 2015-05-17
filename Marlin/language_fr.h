@@ -21,7 +21,7 @@
 #define MSG_AUTOSTART                       "Demarrage auto"
 #define MSG_DISABLE_STEPPERS                "Arreter moteurs"
 #define MSG_AUTO_HOME                       "Home auto."
-#define MSG_SET_HOME_OFFSETS                "Régler decal. Home"
+#define MSG_SET_HOME_OFFSETS                "Enr. decal. orig."
 #define MSG_SET_ORIGIN                      "Regler origine"
 #define MSG_PREHEAT_PLA                     "Prechauffage PLA"
 #define MSG_PREHEAT_PLA_N                   "Prechauff. PLA "
