@@ -201,9 +201,10 @@ Here are some standard links for getting your machine calibrated:
   #define PID_INTEGRAL_DRIVE_MAX PID_MAX  //limit for the integral term
   #define K1 0.95 //smoothing factor within the PID
 
-#define  DEFAULT_Kp 35.05
-#define  DEFAULT_Ki 2.49
-#define  DEFAULT_Kd 123.19
+//Jhead 
+#define  DEFAULT_Kp 16.59
+#define  DEFAULT_Ki 1.70
+#define  DEFAULT_Kd 40.52
 
 
 // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
