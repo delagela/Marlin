@@ -201,11 +201,10 @@ Here are some standard links for getting your machine calibrated:
   #define PID_INTEGRAL_DRIVE_MAX PID_MAX  //limit for the integral term
   #define K1 0.95 //smoothing factor within the PID
 
-//Jhead 
-#define  DEFAULT_Kp 16.59
-#define  DEFAULT_Ki 1.70
-#define  DEFAULT_Kd 40.52
-
+//Jhead Chinois Alu 
+#define  DEFAULT_Kp 22.82
+#define  DEFAULT_Ki 1.55
+#define  DEFAULT_Kd 84.11
 
 // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 // Ultimaker
